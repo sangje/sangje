@@ -48,8 +48,6 @@
 
 ## 📫 Contact
 - 📧 Email: parksj2480@naver.com
-- 📱 Phone: 010-2480-4734
-- 🐙 GitHub: [github.com/sangje](https://github.com/sangje)
 
 ---
 ⚡ **Currently working on**: RAG-based maritime chatbot systems and container logistics optimization
