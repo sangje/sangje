@@ -14,11 +14,11 @@
 |--------|---------|-------------|
 | 2024.09-2025.08 | RAG 기반 해운사 맞춤 폐쇄형 챗봇 | 해운사 맞춤형 RAG 기반 챗봇 개발 |
 | 2024.09-2024.11 | CTGAN을 활용한 컨테이너 입출입 시나리오 생성 | 컨테이너 물류 시나리오 생성 모델링 연구 |
-| 2024.03-2024.09 | [음성 기반 우울증 탐지 모델](#https://dcollection.cau.ac.kr/public_resource/pdf/000000242905_20250806113217.pdf) | 음성 분석을 통한 우울증 탐지 모델 개발 |
+| 2024.03-2024.09 | [음성 기반 우울증 탐지 모델](https://dcollection.cau.ac.kr/public_resource/pdf/000000242905_20250806113217.pdf) | 음성 분석을 통한 우울증 탐지 모델 개발 |
 | 2023.09-2023.11 | RollerBall RL using PPO | PPO 알고리즘 기반 강화학습을 통한 게임 학습 |
-| 2023.03-2024.06 | [스마트 건강 관리 지수 개발](#https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039951) | 머신러닝을 활용한 인지 저하 조기탐지 모델 개발 |
-| 2023.01-2023.05 | [Audio Text Retrieval System](#https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Park_80_t6b.pdf) | DCASE 챌린지 참가 (Rank 6th) |
-| 2022.06-2022.09 | [중소기업 ESG 경영 평가] | ESG 평가 수치 개발 (Rank 2nd) |
+| 2023.03-2024.06 | [스마트 건강 관리 지수 개발](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039951) | 머신러닝을 활용한 인지 저하 조기탐지 모델 개발 |
+| 2023.01-2023.05 | [Audio Text Retrieval System](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Park_80_t6b.pdf) | DCASE 챌린지 참가 (Rank 6th) |
+| 2022.06-2022.09 | 중소기업 ESG 경영 평가 | ESG 평가 수치 개발 (Rank 2nd) |
 
 
 
