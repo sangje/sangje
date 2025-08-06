@@ -1,5 +1,8 @@
 # 박상제 (Sangje Park)
 
+⚡ **Currently interested in**: LLM Agent with MCP Tool
+
+---
 ## 💼 Career
 | Period | Organization | Title |
 |---------|--------|---------|
@@ -19,9 +22,6 @@
 | 2023.03-2024.06 | [스마트 건강 관리 지수 개발](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5039951) | 머신러닝을 활용한 인지 저하 조기탐지 모델 개발 |
 | 2023.01-2023.05 | [Audio Text Retrieval System](https://dcase.community/documents/challenge2023/technical_reports/DCASE2023_Park_80_t6b.pdf) | DCASE 챌린지 참가 (Rank 6th) |
 | 2022.06-2022.09 | 중소기업 ESG 경영 평가 | ESG 평가 수치 개발 (Rank 2nd) |
-
-
-
 
 ## 🛠 Tech Stack
 
@@ -51,4 +51,4 @@
 - 📧 Email: parksj2480@naver.com
 
 ---
-⚡ **Currently working on**: RAG-based maritime chatbot systems and container logistics optimization
+
