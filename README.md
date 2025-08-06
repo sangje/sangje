@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm 박상제 (Sangje Park)
+# 박상제 (Sangje Park)
 
 ## 💼 Career
 - **GlobeAI** - AI Researcher (2024.09 ~ Present)
