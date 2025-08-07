@@ -37,6 +37,7 @@
 ### Deep Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=Ray&logoColor=white)
 
 ### Data & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
