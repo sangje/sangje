@@ -46,7 +46,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Specialized Skills:**
+### Specialized Skills
 - **Audio,Text Processing**
 - **Retrieval System**
 - **RAG**
