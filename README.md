@@ -47,10 +47,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Specialized Skills:**
-- **LLM & RAG**: vLLM, Langchain, LangGraph
-- **Distributed Computing**: Ray, Multi-node processing
-- **Model Optimization**: Quantization, PagedAttention, Continuous Batching
-- **LLM Agent Development**: Langchain, LangGraph
+- **Audio,Text Processing**
+- **Retrieval System**
+- **RAG**
+- **Distributed Computing**
+- **Agent Development**
   
 ## 📫 Contact
 - 📧 Email: parksj2480@naver.com
