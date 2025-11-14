@@ -4,8 +4,11 @@
 
 ---
 ## 💼 Career
-- **GlobeAI** (2024.09 ~ Present)
-  - AI Researcher
+
+- **Upstage** (2025.11 ~ Present)
+  - AI Research Engineer
+- **GlobeAI** (2024.09 ~ 2025.10)
+  - AI Engineer
 - **중앙대학교 통계학과** (2022.09 ~ 2024.09)
   - 석사
   - Teaching Assistant
